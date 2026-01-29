@@ -5,6 +5,11 @@ const testCases = [
     id: 'Pos_Fun_0001',
     description: 'Simple medium daily conversation',
     input: 'heta api eyalage gedhara yanavadha kiyalaa ammaa aehuvaa'
+  },
+   {
+    id: 'Pos_Fun_0002',
+    description: 'Medium length daily convesation with a request',
+    input: 'heta school concert eka thiyanavalu. maath yanna kiyalaa hithan inne. oyath kaemathinam Sithumigenuth ahalaa dhennama enna. oyalaa enavanm mata tikak kalin kiyanna.'
   }
 ];
 
