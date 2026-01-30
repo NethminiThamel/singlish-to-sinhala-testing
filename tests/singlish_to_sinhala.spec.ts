@@ -2,9 +2,9 @@ import { test, expect } from '@playwright/test';
 
 const testCases = [
   {
-    id: 'Neg_Fun_0003',
-    description: 'Conversation containing common Sri Lankan name with request ',
-    input: 'Hello chamoodhi, mama adha chemistry class yannee naee. mata adha tikak saniipa naee vagee. oyaa gihin enna, puluvannam adha ugannana eevala note eka matath tikak dhenna.'
+    id: 'Neg_Fun_0004',
+    description: 'Singlish pragraph with mixed English words ',
+    input: 'yaaluvo ekka inna eka nam life ekee best part ekak. loku plans naethi unath podi joke ekak, random trip ekak, late night chaet ekak aethi jiivithee sathutin inna. Exam stress, paudhgalika prashna, failures okkoma yaaluvo ekka share karadhdhi hithata podi relief ekak dhaenenavaa. yaaluvo ekka gevapu kaale share karapu stories, secrets, laughs, arguments pavaa kaalekata passe hoDHa memories venava. Ehema mathakath ekka thamayi jivithee thava thavath sundhara venne. '
   }
 ];
 
