@@ -2,9 +2,9 @@ import { test, expect } from '@playwright/test';
 
 const testCases = [
   {
-    id: 'Neg_Fun_0001',
-    description: 'repeated slang',
-    input: 'ela ela'
+    id: 'Neg_Fun_0002',
+    description: 'Convert a medium daily conversation with a question',
+    input: 'api heta koheehari yamudha? gedharata velaa iDHalaa matanam dhaen epa velaa inne anee.'
   }
 ];
 
