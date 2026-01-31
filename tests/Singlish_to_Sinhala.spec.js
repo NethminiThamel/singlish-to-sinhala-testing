@@ -262,9 +262,7 @@ const TEST_DATA = {
       name: 'Typographical error in words',
       input: 'shishyathva vibaagaya labana maaseta kal gihin kiyalaa vidhuhalpathithumiya kivvaa. oyaata mokadhdha ee gaena hithanne.',
       expected: 'ශිෂ්‍යත්ව විභාගය ලබන මාසෙට කල් ගිහින් කියලා විදුහල්පතිතුමිය කිව්වා. ඔයාට මොකද්ද ඒ ගැන හිතන්නෙ.',
-      category: 'Names / places / common English words',
-      grammar: 'Simple sentence',
-      length: 'S'
+      
     },
     {
       tcId: 'Neg_Fun_009',
