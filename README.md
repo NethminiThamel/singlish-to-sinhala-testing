@@ -60,7 +60,7 @@ Install Playwright browsers
 
 6.How to Run Tests
 
-Tests can be executed using Playwright test runner
+Tests can be executed using Playwright test runner - npx playwright test/npx playwright test --headed
 
 Tests run on multiple browsers
 
