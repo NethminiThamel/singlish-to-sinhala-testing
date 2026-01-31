@@ -4,7 +4,7 @@ This project automates functional and UI testing of a Singlish to Sinhala transl
 Tests verify translation accuracy, UI behavior, and error handling
 Playwright is used as the automation framework
 
-2. Technologies Used
+2.Technologies Used
 Node.js
 Playwright
 JavaScript
